@@ -1,6 +1,6 @@
 # mbcac.project
 ## 팀 프로젝트 안내
-* 주제: 잘 하자
+* 주제: 열심히 하자
 * 기간: 3달
   +1달: 분석
   +1달: 설계
@@ -23,4 +23,6 @@
 <c:set var="added" value="${bdao.addedBoard(b)}" />
 
 {"added":${added}}
-```jsp
+```
+
+
