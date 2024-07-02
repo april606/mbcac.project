@@ -24,6 +24,7 @@
 
 {"added":${added}}
 ```
-[https://github.com/april606/mbcac.project.git](https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db)
+[gitgub마크다운으로 색상 설정하기][https://github.com/april606/mbcac.project.git](https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db)
+
 $\color{#ff0000}{\textsf{색상설정}}$
 
